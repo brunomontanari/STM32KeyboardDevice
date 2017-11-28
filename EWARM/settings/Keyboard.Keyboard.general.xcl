@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5_2\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5_2\arm\bin\armstlink2.dll" 
+
+"C:\Projetos\VIDEO\Keyboard\EWARM\Keyboard\Exe\Keyboard.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5_2\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5_2\arm\config\debugger\ST\STM32F0xx.dmac" 
+
+--flash_loader "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5_2\arm\config\flashloader\ST\FlashSTM32F07xxB.board" 
+
+
+
+
